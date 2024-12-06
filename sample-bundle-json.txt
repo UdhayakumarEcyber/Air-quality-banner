@@ -1,0 +1,39 @@
+{
+    "id": "a0011140-5ce2-466f-a8e8-75b9b2eef89e",
+    "author": "",
+    "widgets": [
+        {
+            "id": "air_quality_banner",
+            "name": "air_quality_banner",
+            "description": "A sample widget",
+            "icon": "",
+            "tags":[]
+            "category":"",
+            "isTemplate": true/false // this will mark the widget as a template 
+        }
+    ],
+    "sidebarLinks": [
+        {
+            "id": "air_quality_bannerLink",
+            "label": "",
+            "description": "",
+            "target": "",
+            "icon": "",
+            "roles":[]
+        }
+    ],
+    "uis": [
+        {
+            "id": "air_quality_bannerLink",
+            "label":"",
+            "description": "",
+            "roles": []
+        }
+    ],
+    "menuItems": [
+        {
+            "id": "air_quality_bannerLink",
+            "title": "air_quality_banner"
+        }
+    ]
+}
